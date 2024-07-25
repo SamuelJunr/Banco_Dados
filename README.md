@@ -1,9 +1,9 @@
-Personalizando-o-Banco-de-Dados-com-ndices-e-Procedures
+# Personalizando-o-Banco-de-Dados-com-ndices-e-Procedures
 Projeto Personalizando o Banco de Dados com Índices e Procedures
 
 Neste desafio, eu vou personalizar o banco de dados criando índices e procedures para o cenário de Company e E-commerce. Vamos começar pela Parte 1, que envolve a criação de índices em Banco de Dados.
 
-Parte 1 – Criando índices em Banco de Dados
+## Parte 1 – Criando índices em Banco de Dados
 A criação de índices visa otimizar consultas no banco de dados. Para isso, consideraremos os seguintes aspectos:
 
 Dados mais acessados: Identifique quais dados são frequentemente consultados.
@@ -23,7 +23,7 @@ Entregável:
 Crie as queries para responder essas perguntas.
 Crie o índice para cada tabela envolvida, conforme a necessidade.
 Indique o tipo de índice utilizado e explique o motivo da escolha (via comentário no script ou README).
-Parte 2 - Utilização de Procedures para Manipulação de Dados em Banco de Dados
+## Parte 2 - Utilização de Procedures para Manipulação de Dados em Banco de Dados
 
 Nesta etapa, vamos criar uma procedure que englobe as instruções de inserção, remoção e atualização de dados no banco de dados. Essas instruções devem estar dentro de estruturas condicionais, como CASE ou IF.
 
